@@ -1,4 +1,4 @@
-# CLDataset
+# CLDataset (Extracted on 20-09-2020)
 Russian dataset for natural language processing problems
 Each file contains a single JSON array containing articles information
 Object structure is as follow
